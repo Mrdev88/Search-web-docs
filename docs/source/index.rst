@@ -1,6 +1,6 @@
 Welcome to Search Web docs
 ===================================
-.. _Start Searching: https://searchweb.nicepage.io/
+`Start Searching <https://searchweb.nicepage.io/>`_
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
