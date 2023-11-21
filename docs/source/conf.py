@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Search Web'
+copyright = '2023, Search Web'
+author = 'Search Web'
 
 release = '0.1'
 version = '0.1.0'
